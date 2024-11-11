@@ -14,7 +14,7 @@ public class Average2 {
         c = scan.nextDouble();
 
         media = ((a * 2) + (b * 3) + (c * 5))/ 10;
-        System.out.printf("MEDIA = %.1f\n", + media);
+        System.out.printf("MEDIA = %.1f\n", media);
     }
 
 
